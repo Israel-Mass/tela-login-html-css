@@ -1,2 +1,3 @@
 # tela-login-html-css
-Tela de Login com HTML e CSS
+Estudo de HTML e CSS
+Tela de Login com HTML e CSS -  https://israel-mass.github.io/tela-login-html-css/
